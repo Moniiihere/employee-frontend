@@ -1,0 +1,11 @@
+.imgs {
+  background-image: url("https://img1.wsimg.com/isteam/ip/d75c7d74-768b-4d25-acd2-4c864bc7b415/blob-0001.png/:/rs=h:200,cg:true,m/qt=q:95");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
